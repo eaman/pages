@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Well this would be nice
 
 You can use the [editor on GitHub](https://github.com/eaman/pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
